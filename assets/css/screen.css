@@ -110,7 +110,8 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    /*background: color(var(--black) l(-5%)) no-repeat center center;*/
+    background: #000000;
     background-size: cover;
 }
 
@@ -164,7 +165,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 150px;
 }
 
 .site-description {
